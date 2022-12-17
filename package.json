@@ -1,0 +1,11 @@
+{
+  "name": "mernstack-practice--node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jobkaeHenry/mernstack-practice--node-express.git",
+  "author": "Jungu Lee <1zzangjun@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
